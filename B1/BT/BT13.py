@@ -1,0 +1,1 @@
+print('Python', 'HTML' , 'CSS', 'JavaScript', sep = ' | ', end=" <hết>");

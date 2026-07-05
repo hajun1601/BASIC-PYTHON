@@ -1,0 +1,1 @@
+print("HTML", "CSS", "JavaScript", sep=" - ");

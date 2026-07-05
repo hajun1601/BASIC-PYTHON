@@ -1,0 +1,14 @@
+print(f'================================','\n', 'ĐÂY LÀ CHƯƠNG TRÌNH ĐẦU TIÊN CỦA TÔI', '\n' 'Tên : Long ', '\n' 'Tuổi : 20', '\n' 'Nghề nghiệp : Sinh viên', '\n' 'Quên Quán : HÀ NỘI ' ,'\n' 'HIỆN TẠI TÔI ĐANG HỌC NGÔN NGỮ : ', '\n' 'PYTHON - C# - HTML - CSS - JAVASCRIPT ', '\n' 'CẢM ƠN BẠN ĐÃ XEM !','\n','================================');
+print('=======================================================',end='\n');
+print('        ĐÂY LÀ CHƯƠNG TRÌNH ĐẦU TIÊN CỦA TÔI',end='\n');
+print(' ',end='\n');
+print('Tên : Long ',end='\n');
+print('Tuổi : 20',end='\n');
+print('QUÊN QUÁN : HÀ NỘI ',end='\n');
+print('  '  ,end='\n');
+print('HIỆN TẠI TÔI ĐANG HỌC NGÔN NGỮ : ',end='\n');
+print('PYTHON - C# - HTML - CSS - JAVASCRIPT ',end='\n');
+print('  '  ,end='\n');
+print('  '  ,end='\n');
+print('                 CẢM ƠN BẠN ĐÃ XEM !',end='\n');
+print('=======================================================',end='\n');

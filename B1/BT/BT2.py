@@ -1,0 +1,1 @@
+print('Xin chào !', 'Tên tôi là Long.', 'tôi đang học python', sep='\n', end=".");

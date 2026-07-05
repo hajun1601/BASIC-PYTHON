@@ -1,0 +1,1 @@
+print('Xin chào tôi tên Long', 'Ngôn ngữ lập trình tôi học là : ', 'HTML - CSS - C# - Python', sep=' - - - - ', end= ' <hết>');
