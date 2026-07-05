@@ -1,0 +1,2 @@
+# BASIC-PYTHON
+TÔI MỚI HỌC LẬP TRÌNH PYTHON - Ở ĐÂY CÓ BÀI TẬP VÀ CÁC THỰC HÀNH CỦA TÔI
