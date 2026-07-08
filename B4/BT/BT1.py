@@ -6,7 +6,7 @@
 #Tích
 #Thương
 
-"""NHẬP A = 10 , B = 2"""
+"""NHẬP A = 10, B = 2"""
 a = 10
 b = 2
 
@@ -20,3 +20,4 @@ print("Tổng A + B : ",Tong)
 print("Hiện A - B : ",hieu)
 print("Tích A * B : ",tich)
 print("Thương A / B : ", thuong)
+print()
