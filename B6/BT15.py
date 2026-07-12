@@ -20,3 +20,4 @@ b = int(input("Nhập mũ : ")) # mũ 2 3 4
 t1 = a**b
 print("")
 print(f'{a}^{b} = {t1}')
+print("Hoàn tành toán tử ( Toán Học )")
