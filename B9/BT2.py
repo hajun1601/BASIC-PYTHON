@@ -1,0 +1,5 @@
+a = input("nhập 3 màu sác : ")
+x , y , z = a.split()
+print("màu 1 : ",x)
+print("màu 2 : ",y)
+print("màu 3 : ",z)

@@ -1,0 +1,5 @@
+a = input("Nhập Tên, Tuổi, Nơi Học : ")
+ten, tuoi, truong = a.split()
+print("Tên : ",ten)
+print("Tuổi : ",tuoi)
+print("Trường Ở : ",truong)

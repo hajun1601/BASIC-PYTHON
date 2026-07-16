@@ -1,0 +1,5 @@
+a = input("Nhập 2 tên : ")
+x,y = a.split()
+print("Tên 1 : ",x)
+print("Tên 2 : ",y)
+print(f'Tên 1 : {x} \nTên 2 : {y}')
